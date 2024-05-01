@@ -2,6 +2,8 @@ package br.edu.up;
 
 import java.util.Scanner;
 
+import br.edu.up.modelos.Dinheiro;
+
 public class Exercicio04 {
     public static void Executar() {
         Scanner scanner = new Scanner(System.in);
